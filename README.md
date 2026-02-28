@@ -127,17 +127,6 @@ Only the model architecture changes
 
 This design ensures a controlled and scientifically valid comparison.
 
-## Key Insights
-
-Feature scaling significantly improves model stability
-
-KNN performance depends strongly on neighborhood size
-
-SVM performs efficiently on scaled feature space
-
-Random Forest provides a strong and robust baseline
-
-ANN benefits from batch-based training and adaptive learning rate
 
 ## Skills Demonstrated
 
@@ -170,15 +159,7 @@ NumPy
 
 Matplotlib
 
-## Possible Improvements
 
-Add confusion matrix visualization
-
-Perform hyperparameter tuning
-
-Try non-linear SVM kernels
-
-Introduce cross-validation
 
 Compare with CNN-based approaches
 
